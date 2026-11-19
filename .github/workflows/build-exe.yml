@@ -2,7 +2,7 @@ name: Dong goi EXE
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
   workflow_dispatch:
 
 jobs:
